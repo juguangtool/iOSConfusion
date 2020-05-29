@@ -4,8 +4,14 @@
 </p>
 </div>
 
+## 更新日志
+version 1.0.0   工具首发,暂只支持OC项目混淆
+
+## 链接导航
+* [工具使用教程-OC](https://shimo.im/docs/wwh3qxrwvY9ctYdy/read)
+
 # 摘要
-iOS混淆 iOS代码混淆 iOS过审工具 iOS上架 iOS代码混淆工具 iOS工具 iOS马甲包 iOS马甲包工具 iOS混淆 iOS过4.3 iOS过审 iOS confuse iOS code confuse iOS2.3.1解决 iOS账号调查解决办法 iOS账号调查解决 iOS账号调查过审 OC代码混淆 IOS源码混淆
+iOS混淆 iOS代码混淆 iOS过审工具 iOS上架 iOS代码混淆工具 iOS工具 iOS马甲包 iOS马甲包工具 iOS混淆 iOS过4.3 iOS过审 iOS confuse iOS code confuse iOS2.3.1解决 iOS账号调查解决办法 iOS账号调查解决 iOS账号调查过审 OC代码混淆 IOS源码混淆 OC混淆 OC代码混淆 OC过审工具 OC代码混淆工具 OC工具 OC马甲包 OC马甲包工具 OC混淆 OC过4.3 OC过审 OC confuse OC code confuse OC解决  OC代码混淆 IOS源码混淆
 
 # 前言
 我们长期给用户提供上架技术支持，上架解决方案。有感于目前苹果加大了审核力度，导致诸多开发者苦不堪言。由此，我们开放了此工具，以帮助诸多开发者解决上架过程中遇到的各种问题。
@@ -31,7 +37,7 @@ iOS混淆 iOS代码混淆 iOS过审工具 iOS上架 iOS代码混淆工具 iOS工
 1. 本工具不会收集和上传任何的代码信息和个人隐私信息
 2. 非规范代码混淆之后可能会出现少数的报错,需要人工修改
 3. 本工具仅支持MACOS平台10.10以上版本运行
-4. 使用前请详细阅读使用教程，以免造成损失
+4. 使用前请详细阅读使用[教程](https://shimo.im/docs/wwh3qxrwvY9ctYdy/read)，以免造成损失
 5. 工具每次运行混淆都会进行网络验证,请保持网络畅通
 6. 混淆前请务必备份源码
 7. 更多语言支持正在开发中，敬请期待
@@ -56,10 +62,16 @@ sudo xattr -d com.apple.quarantine /Applications/h橘光混淆工具.app
     * 没有图形化界面或用户体验太差
     * 普遍使用,长久不更新的混淆逻辑
 * 我们
-    * 抛弃原有市面上的常规做法,使用高效匹配,效率高出错率低,兼容各种大型工程
-    * 清晰的忽略规则
-    * 独有的混洗逻辑,实时紧跟审核规则变化
+    * 专业的提审技术团队支持
+    * 实时掌握审核规则变化
+    * 独特实用的混淆理论
+    * 使用简洁,新手小白皆能快速上手
+    * 强力服务支持，客服+技术 保驾护航
     * 专门为MacOS优化的图形界面
+    * 更多的语言支持，OC Swift Flutter RN Unity-3d Cocos2d-x CocosCreator CocosCreator-3D 
+    * 支持针对特定项目的工具定制(为您项目单独设计一套混淆工具，混淆后少报错或0报错，针对独有的资源类型进行处理)
+    * 抛弃原有市面上的常规做法,使用高效匹配,效率高出错率低,兼容各种大型工程
+
 
 
 
