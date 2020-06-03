@@ -5,8 +5,8 @@
 </div>
 
 ## 更新日志
-version 1.0.0  2020-05-27  工具首发,暂只支持OC项目混淆
-version 1.1.0  2020-06-03  优化OC混淆逻辑和规则，新增Flutter项目混淆支持
+* version 1.0.0  2020-05-27  工具首发,暂只支持OC项目混淆
+* version 1.1.0  2020-06-03  优化OC混淆逻辑和规则，新增Flutter项目混淆支持
 
 ## 链接导航
 * [工具使用教程-OC](https://shimo.im/docs/wwh3qxrwvY9ctYdy/read)
@@ -40,7 +40,7 @@ Flutter源码混淆 Flutter混淆  Flutter代码混淆  Flutter confuse  Flutter
 1. 本工具不会收集和上传任何的代码信息和个人隐私信息
 2. 非规范代码混淆之后可能会出现少数的报错,需要人工修改
 3. 本工具仅支持MACOS平台10.10以上版本运行
-4. 使用前请详细阅读使用[教程](https://shimo.im/docs/wwh3qxrwvY9ctYdy/read),以免造成损失
+4. 使用前请详细阅读使用[教程](https://shimo.im/docs/rJVQr6kP9Htv8t3C/),以免造成损失
 5. 工具每次运行混淆都会进行网络验证,请保持网络畅通
 6. 混淆前请务必备份源码
 7. 更多语言支持正在开发中,敬请期待
