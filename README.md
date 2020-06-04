@@ -27,6 +27,20 @@ Flutter源码混淆 Flutter混淆  Flutter代码混淆  Flutter confuse  Flutter
 5. 资源处理,对plist,bundle,xib,Stroyboard等资源进行差异化处理。
 6. 文件MD5处理,对项目中所有文件进行修改,微调,达到修改其MD5值的目的。
     等。。。
+    
+# 图文介绍
+* 项目名修改  项目目录结构改变 
+![](resources/djkj3.png)
+
+* 资源  文件 MD5修改
+![](resources/djkj2.png)
+
+* 资源名  文件名修改
+![](resources/djkj1.png)
+
+* 源码中插入混淆代码  新建全新混淆代码
+![](resources/djkj4.png)
+
 
 
 
