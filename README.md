@@ -7,10 +7,12 @@
 ## 更新日志
 * version 1.0.0  2020-05-27  工具首发,暂只支持OC项目混淆
 * version 1.1.0  2020-06-03  优化OC混淆逻辑和规则，新增Flutter项目混淆支持
+* version 1.2.0  2020-06-05  新增React Native项目混淆支持
 
 ## 链接导航
 * [工具使用教程-OC](https://shimo.im/docs/wwh3qxrwvY9ctYdy/read)
 * [工具使用教程-Flutter](https://shimo.im/docs/tgY98xDh38h3DWTt/ )
+* [工具使用教程-React Native](https://shimo.im/docs/C8cRvcCGCDdpcYd6/ )
 
 # 摘要
 iOS混淆 iOS代码混淆 iOS过审工具 iOS上架 iOS代码混淆工具 iOS工具 iOS马甲包 iOS马甲包工具 iOS混淆 iOS过4.3 iOS过审 iOS confuse iOS code confuse iOS2.3.1解决 iOS账号调查解决办法 iOS账号调查解决 iOS账号调查过审 OC代码混淆 IOS源码混淆 OC混淆 OC代码混淆 OC过审工具 OC代码混淆工具 OC工具 OC马甲包 OC马甲包工具 OC混淆 OC过4.3 OC过审 OC confuse OC code confuse OC解决  OC代码混淆 IOS源码混淆 
