@@ -13,6 +13,7 @@
 * version 1.5.0  2020-07-09  增加混淆日志文档功能；部分UI显示优化
 
 ## 链接导航
+* [版本更新功能说明](https://shimo.im/docs/RhxX6yP6hkctTyyP/)
 * [为什么要做iOS源码混淆](https://shimo.im/docs/j9kvvykc33RDRr8w/)
 * [工具使用教程-OC](https://shimo.im/docs/XwD9XVvp6CK9Gj9v/)
 * [工具使用教程-Flutter](https://shimo.im/docs/68xDRkVxPdgQJvVG/)
