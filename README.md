@@ -84,7 +84,7 @@ iOS混淆 iOS代码混淆 iOS过审工具 iOS上架 iOS代码混淆工具 iOS工
 ## 如已经开启任何来源,但依旧打不开（macOS Catalina 10.15以上会遇到）
 1. 在系统的“安全与隐私”中允许“任何来源”,再打开终端
 2. 输入以下命令,回车(注意路径根据自己的实际情况替换)
-sudo xattr -d com.apple.quarantine /Applications/橘光混淆工具.app
+sudo xattr -d com.apple.quarantine /Applications/ALL_RoundU.app
 1. 重启App即可.
 
 
