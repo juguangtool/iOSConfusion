@@ -10,6 +10,7 @@
 * version 1.2.0  2020-06-05  新增React Native项目混淆支持
 * version 1.3.0  2020-07-01  优化混淆逻辑，开放免费版本
 * version 1.4.0  2020-07-03  RN混淆功能暂时关闭；工具界面可拉伸缩放
+* version 1.5.0  2020-07-09  增加混淆日志文档功能；部分UI显示优化
 
 ## 链接导航
 * [为什么要做iOS源码混淆](https://shimo.im/docs/j9kvvykc33RDRr8w/)
